@@ -1,0 +1,23 @@
+/* Landing.css */
+
+.swiper-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #fff; /* Navigation button color */
+  }
+  
+  .swiper-pagination-bullet {
+    background: #fff; /* Pagination bullet color */
+  }
+  
